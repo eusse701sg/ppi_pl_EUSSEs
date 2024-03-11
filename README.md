@@ -3,3 +3,5 @@ Mi nombre es Santiago Eusse Gil, me encuentro en noveno semestre de Ingeniería 
 # Proyecto
 En cuanto el proyecto libre estoy explorando el mundo del trabajo independiente como freelancer. Me he registrado en varias plataformas y estoy aprendiendo sobre su funcionamiento y adaptándome a este nuevo entorno.
 El objetivo es enfocarme en aplicativos basados en python y programación orientada objetos.
+# Contacto
+Linkedin: https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card
