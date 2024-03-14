@@ -2,7 +2,7 @@
 # Contenido
 - [Sobre Mi](#Sobre-Mi)
 - [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
-- [Sportex](#Sportex)
+- [Sportex](#Sportex-(App))
 - [Justificación](##Justificación)
 - [Librerías](##Librerías)
 - [Contacto](#Contacto)
