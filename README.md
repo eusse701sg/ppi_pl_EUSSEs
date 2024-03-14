@@ -2,7 +2,9 @@
 # Contenido
 - [Sobre Mi](#Sobre-Mi)
 - [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
-- [Proyecto](#Proyecto)
+- [Sportex](#Sportex)
+- [Justificación](##Justificación)
+- [Librerías](##Librerías)
 - [Contacto](#Contacto)
 
 ## Sobre Mi
@@ -21,17 +23,20 @@ Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no f
 - Programación Orientada a Objetos.
 - Office.
 
-## Proyecto
-En cuanto el proyecto libre estoy explorando el mundo del trabajo independiente como freelancer. 
-Me he registrado en varias plataformas y estoy aprendiendo sobre su funcionamiento y adaptándome a este nuevo entorno.
-El objetivo es enfocarme en aplicativos basados en python y programación orientada objetos.
+## Sportex (App)
+Voy a desarrollar una aplicación que conecta a los aficionados al deporte a nivel local, proporcionando información sobre eventos, torneos, clubes y facilidades deportivas en su área. Además de la posibilidad
 
-### Plataformas
-Actualmente me encuentro registrado en las siguientes plataformas:
-- [Toptal]()
-- [Peopleperhour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzzxwqjj)
-- [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
-- [Freelancer](https://www.freelancer.com/u/Eusse701sg)
+### Justificación
+Actualmente existe una demanda continua de plataformas que faciliten la participación en actividades deportivas locales y fomenten un sentido de comunidad entre los aficionados al deporte.
+
+### Librerías
+-NumPy: Para realizar cálculos estadísticos sobre la participación en eventos deportivos locales y la demografía de los usuarios.
+-Pandas: Para gestionar bases de datos de eventos deportivos locales, clubes, instalaciones, etc., y facilitar la búsqueda y filtrado de información para los usuarios.
+-Matplotlib: Para visualizar información sobre eventos deportivos locales a través de mapas, gráficos de barras, etc., para mejorar la experiencia del usuario.
+-Scipy: Para analizar datos demográficos y tendencias en la participación deportiva local, identificando áreas de oportunidad para el crecimiento y la mejora.
+-Geopandas: Para mostrar ubicaciones geográficas de eventos deportivos locales, instalaciones y clubes en mapas interactivos para los usuarios.
+
+
 
 ## Contacto
 [Linkedin](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card)
