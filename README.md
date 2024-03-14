@@ -1,3 +1,4 @@
+# Freelance
 # Contenido
 - [Sobre Mi](#Sobre-Mi)
 - [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
@@ -24,6 +25,13 @@ Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no f
 En cuanto el proyecto libre estoy explorando el mundo del trabajo independiente como freelancer. 
 Me he registrado en varias plataformas y estoy aprendiendo sobre su funcionamiento y adaptándome a este nuevo entorno.
 El objetivo es enfocarme en aplicativos basados en python y programación orientada objetos.
+
+### Plataformas
+Actualmente me encuentro registrado en las siguientes plataformas:
+- [Toptal]()
+- [Peopleperhour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzzxwqjj)
+- [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
+- [Freelancer](https://www.freelancer.com/u/Eusse701sg)
 
 ## Contacto
 [Linkedin](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card)
