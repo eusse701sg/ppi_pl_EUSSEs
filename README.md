@@ -7,15 +7,18 @@
 ## Sobre Mi
 Mi nombre es Santiago Eusse Gil, me encuentro en noveno semestre de Ingeniería de Sistemas. 
 Actualmente, trabajo como Analista I-Ingeniero de Desarrollo. Pertenezco al team DevSecOps allí aplicamos la metodología Scrum y utilizamos Azure DevOps para organizar nuestro trabajo.
-Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no funcionales de carga y estrés, escaneo de vulnerabilidades mediante análisis estático del código, etc. 
+Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no funcionales de carga y estrés, escaneo de vulnerabilidades mediante análisis estático del código, CI/CD, etc. 
 
 ## Conocimientos y Herramientas
-- Nivel B2 (Upper Intermediate) de Inglés
-- Python
-- Java
-- Azure Devops
-- Visual Studio Code
-- Programación Orientada a Objetos
+- Nivel B2 (Upper Intermediate) de inglés.
+- Jmeter.
+- Postman.
+- Python.
+- Java.
+- Azure Devops.
+- Visual Studio Code.
+- Programación Orientada a Objetos.
+- Office.
 
 ## Proyecto
 En cuanto el proyecto libre estoy explorando el mundo del trabajo independiente como freelancer. 
