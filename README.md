@@ -1,6 +1,6 @@
 # Contenido
-- [Sobre Mi](#SobreMi)
-- [Conocimientos y Heramientas](#ConocimientosyHerramientas)
+- [Sobre Mi](#Sobre-Mi)
+- [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
 - [Proyecto](#Proyecto)
 - [Contacto](#Contacto)
 
