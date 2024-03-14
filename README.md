@@ -3,8 +3,6 @@
 - [Sobre Mi](#Sobre-Mi)
 - [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
 - [Sportex](#Sportex-App)
-- [Justificación](##Justificación)
-- [Librerías](##Librerías)
 - [Contacto](#Contacto)
 
 ## Sobre Mi
@@ -30,11 +28,11 @@ Voy a desarrollar una aplicación que conecta a los aficionados al deporte a niv
 Actualmente existe una demanda continua de plataformas que faciliten la participación en actividades deportivas locales y fomenten un sentido de comunidad entre los aficionados al deporte.
 
 ### Librerías
--NumPy: Para realizar cálculos estadísticos sobre la participación en eventos deportivos locales y la demografía de los usuarios.
--Pandas: Para gestionar bases de datos de eventos deportivos locales, clubes, instalaciones, etc., y facilitar la búsqueda y filtrado de información para los usuarios.
--Matplotlib: Para visualizar información sobre eventos deportivos locales a través de mapas, gráficos de barras, etc., para mejorar la experiencia del usuario.
--Scipy: Para analizar datos demográficos y tendencias en la participación deportiva local, identificando áreas de oportunidad para el crecimiento y la mejora.
--Geopandas: Para mostrar ubicaciones geográficas de eventos deportivos locales, instalaciones y clubes en mapas interactivos para los usuarios.
+- NumPy: Para realizar cálculos estadísticos sobre la participación en eventos deportivos locales y la demografía de los usuarios.
+- Pandas: Para gestionar bases de datos de eventos deportivos locales, clubes, instalaciones, etc., y facilitar la búsqueda y filtrado de información para los usuarios.
+- Matplotlib: Para visualizar información sobre eventos deportivos locales a través de mapas, gráficos de barras, etc., para mejorar la experiencia del usuario.
+- Scipy: Para analizar datos demográficos y tendencias en la participación deportiva local, identificando áreas de oportunidad para el crecimiento y la mejora.
+- Geopandas: Para mostrar ubicaciones geográficas de eventos deportivos locales, instalaciones y clubes en mapas interactivos para los usuarios.
 
 
 
