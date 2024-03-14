@@ -2,7 +2,7 @@
 # Contenido
 - [Sobre Mi](#Sobre-Mi)
 - [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
-- [Sportex](#Sportex-(App))
+- [Sportex](#Sportex-App)
 - [Justificación](##Justificación)
 - [Librerías](##Librerías)
 - [Contacto](#Contacto)
@@ -23,7 +23,7 @@ Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no f
 - Programación Orientada a Objetos.
 - Office.
 
-## Sportex (App)
+## Sportex-App
 Voy a desarrollar una aplicación que conecta a los aficionados al deporte a nivel local, proporcionando información sobre eventos, torneos, clubes y facilidades deportivas en su área. Además de la posibilidad
 
 ### Justificación
