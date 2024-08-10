@@ -34,6 +34,8 @@ Actualmente me encuentro registrado en las siguientes plataformas:
 - [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
 - [Freelancer](https://www.freelancer.com/u/Eusse701sg)
 - [Fiverr](https://www.fiverr.com/eusse_sg?public_mode=true)
+- [Stack Overflow](https://stackoverflow.com/users/26733656/santiago-eusse)
+- [Reddit](https://www.reddit.com/user/One_Election1434/)
 
 ## 📞 Contacto
 Puedes conectarte conmigo a través de [LinkedIn](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card) o haciendo clic en el ícono a continuación:
