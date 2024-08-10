@@ -30,10 +30,9 @@ Estoy explorando el mundo del **trabajo independiente** como freelancer. Me he r
 
 ### 🌐 Plataformas
 Actualmente me encuentro registrado en las siguientes plataformas:
-- [Toptal](https://www.toptal.com)
-- [PeoplePerHour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzzxwqjj)
+- [PeoplePerHour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzwamaxw)
 - [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
-- [Freelancer](https://www.freelancer.com/u/Eusse701sg)
+- [Freelancer]([https://www.freelancer.com/u/Eusse701sg](https://www.freelancer.com/u/Eusse701sg))
 
 ## 📞 Contacto
 Puedes conectarte conmigo a través de [LinkedIn](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card) o haciendo clic en el ícono a continuación:
