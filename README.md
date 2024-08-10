@@ -3,7 +3,7 @@
 height= "300">
 
 ## 📑 Contenido
-- [Sobre Mí](## 🙋‍♂️-Sobre-Mí)
+- [Sobre Mí](##-🙋‍♂️-Sobre-Mí)
 - [Conocimientos y Herramientas](#conocimientos-y-herramientas)
 - [Proyecto](#proyecto)
 - [Contacto](#contacto)
