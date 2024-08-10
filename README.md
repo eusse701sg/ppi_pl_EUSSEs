@@ -3,10 +3,11 @@
 height= "300">
 
 ## 📑 Contenido
-- [Sobre Mí](##-🙋‍♂️-Sobre-Mí)
-- [Conocimientos y Herramientas](#conocimientos-y-herramientas)
-- [Proyecto](#proyecto)
-- [Contacto](#contacto)
+- [Sobre Mí](#🙋‍♂️-sobre-mí)
+- [Conocimientos y Herramientas](#🛠️-conocimientos-y-herramientas)
+- [Proyecto](#🚀-proyecto)
+- [Plataformas](#🌐-plataformas)
+- [Contacto](#📞-contacto)
 
 ## 🙋‍♂️ Sobre Mí
 ¡Hola! Mi nombre es **Santiago Eusse**. Actualmente me encuentro en noveno semestre de **Ingeniería de Sistemas** y trabajo como **Analista I-Ingeniero de Desarrollo**. Pertenezco al equipo **DevSecOps** donde aplicamos la metodología **Scrum** y utilizamos **Azure DevOps** para organizar nuestro trabajo.
