@@ -1,37 +1,47 @@
-# Freelance: Optimización DevOps
-# Contenido
-- [Sobre Mi](#Sobre-Mi)
-- [Conocimientos y Heramientas](#Conocimientos-y-Herramientas)
-- [Proyecto](#Proyecto)
-- [Contacto](#Contacto)
+# 🎯 Freelance: Optimización DevOps
+![DevOps Banner](https://agilidadydevops.net/wp-content/uploads/2022/12/devops_by_dynatrace.png)
 
-## Sobre Mi
-Mi nombre es Santiago Eusse Gil, me encuentro en noveno semestre de Ingeniería de Sistemas. 
-Actualmente, trabajo como Analista I-Ingeniero de Desarrollo. Pertenezco al team DevSecOps allí aplicamos la metodología Scrum y utilizamos Azure DevOps para organizar nuestro trabajo.
-Mis responsabilidades incluyen realizar pruebas de automatización, pruebas no funcionales de carga y estrés, escaneo de vulnerabilidades mediante análisis estático del código, CI/CD, etc. 
+## 📑 Contenido
+- [Sobre Mí](#sobre-mí)
+- [Conocimientos y Herramientas](#conocimientos-y-herramientas)
+- [Proyecto](#proyecto)
+- [Contacto](#contacto)
 
-## Conocimientos y Herramientas
-- Nivel B2 (Upper Intermediate) de inglés.
-- Jmeter.
-- Postman.
-- Python.
-- Java.
-- Azure Devops.
-- Visual Studio Code.
-- Programación Orientada a Objetos.
-- Office.
+## 🙋‍♂️ Sobre Mí
+¡Hola! Mi nombre es **Santiago Eusse**. Actualmente me encuentro en noveno semestre de **Ingeniería de Sistemas** y trabajo como **Analista I-Ingeniero de Desarrollo**. Pertenezco al equipo **DevSecOps** donde aplicamos la metodología **Scrum** y utilizamos **Azure DevOps** para organizar nuestro trabajo.
 
-## Proyecto
-En cuanto el proyecto libre estoy explorando el mundo del trabajo independiente como freelancer. 
-Me he registrado en varias plataformas y estoy aprendiendo sobre su funcionamiento y adaptándome a este nuevo entorno.
-El objetivo es enfocarme en aplicativos basados en python y programación orientada objetos.
+Mis responsabilidades incluyen:
+- Realización de pruebas de automatización.
+- Pruebas no funcionales de carga y estrés.
+- Escaneo de vulnerabilidades mediante análisis estático del código.
+- Configuración de CI/CD.
+- Y mucho más.
 
-### Plataformas
+## 🛠️ Conocimientos y Herramientas
+- 🙋‍ Nivel **B2** (Upper Intermediate) de inglés.
+- 💻 **JMeter**.
+- 🧪 **Postman**.
+- 🐍 **Python**.
+- ☕ **Java**.
+- 🚀 **Azure DevOps**.
+- 🖥️ **Visual Studio Code**.
+- 🧑‍💻 **Programación Orientada a Objetos**.
+- 📊 **Office**.
+
+## 🚀 Proyecto
+Estoy explorando el mundo del **trabajo independiente** como freelancer. Me he registrado en varias plataformas y estoy aprendiendo sobre su funcionamiento y adaptándome a este nuevo entorno.
+
+**Objetivo**: Enfocarme en el desarrollo de aplicativos basados en **Python** y **Programación Orientada a Objetos**.
+
+### 🌐 Plataformas
 Actualmente me encuentro registrado en las siguientes plataformas:
-- [Toptal]()
-- [Peopleperhour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzzxwqjj)
+- [Toptal](https://www.toptal.com)
+- [PeoplePerHour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzzxwqjj)
 - [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
 - [Freelancer](https://www.freelancer.com/u/Eusse701sg)
 
-## Contacto
-[Linkedin](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card)
+## 📞 Contacto
+Puedes conectarte conmigo a través de [LinkedIn](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card) o haciendo clic en el ícono a continuación:
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card)
+
