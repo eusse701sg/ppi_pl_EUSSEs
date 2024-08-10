@@ -1,5 +1,6 @@
 # 🎯 Freelance: Optimización DevOps
-![DevOps Banner](https://agilidadydevops.net/wp-content/uploads/2022/12/devops_by_dynatrace.png)
+<img src="https://agilidadydevops.net/wp-content/uploads/2022/12/devops_by_dynatrace.png" alt="DevOps Banner" width="600"
+height= "300">
 
 ## 📑 Contenido
 - [Sobre Mí](#sobre-mí)
@@ -43,5 +44,7 @@ Actualmente me encuentro registrado en las siguientes plataformas:
 ## 📞 Contacto
 Puedes conectarte conmigo a través de [LinkedIn](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card) o haciendo clic en el ícono a continuación:
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card)
+<a href="https://co.linkedin.com/in/santiago-eusse-gil-638b83220?trk=people-guest_people_search-card" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-right:10px;">
+</a>
 
