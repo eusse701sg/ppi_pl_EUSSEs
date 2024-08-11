@@ -15,3 +15,14 @@ Este script gestiona el registro de pipetas en un laboratorio de metrología. Pe
 
 1. Ejecuta el script.
 2. Selecciona una opción del menú para agregar, consultar, ver estadísticas o visualizar seriales.
+
+## Ejemplo de Uso
+
+```python
+# Agregar una pipeta
+Inserte el serial de la pipeta: 12345
+Inserte medida del 10% del volumen nominal. #1: 95
+...
+
+# Consultar información de una pipeta
+Inserte el número de serial que desea consultar: 12345
