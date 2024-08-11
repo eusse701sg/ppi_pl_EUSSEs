@@ -29,7 +29,7 @@ Estoy explorando el mundo del **trabajo independiente** como freelancer. Me he r
 **Objetivo**: Enfocarme en el desarrollo de aplicativos basados en **Python** y **Programación Orientada a Objetos**.
 
 ## 💼 Portafolio
-## Descripción de los Scripts
+Bienvenido a mi portfolio, donde presento una colección de proyectos en Python diseñados para resolver problemas del mundo real y demostrar habilidades en programación. Cada script muestra una solución práctica y eficiente, abarcando diversas áreas como gestión de inventarios, cálculo de nómina, y más. Aquí tienes un vistazo a algunos de mis proyectos destacados:
 
 ### 1. **Almacenamiento de Pipetas 🧪**
    ¡Gestiona tus pipetas de laboratorio de manera eficiente! Este script te permite registrar pipetas, realizar mediciones precisas y mantener un registro completo. Verifica la disponibilidad de seriales, consulta detalles específicos y obtén estadísticas detalladas por marca. Ideal para laboratorios que buscan un control meticuloso sobre sus instrumentos. 📊
