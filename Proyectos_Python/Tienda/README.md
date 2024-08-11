@@ -32,4 +32,4 @@ Bienvenido al **Sistema de Gestión de Inventario y Ventas** 🏪, una solución
 - Gestión completa de productos y ventas 📊
 - Creación y edición de credenciales de usuario 🔑
 
-¡Haz que la gestión de tu tienda sea más sencilla y eficiente con nuestro sistema! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 😊
+¡Haz que la gestión de tu tienda sea más sencilla y eficiente con este sistema! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
