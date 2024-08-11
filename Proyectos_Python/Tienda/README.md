@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestión de Inventario y Ventas 🛒
+# 📦 Sistema de Gestión de Tienda 🛒
 
 Bienvenido al **Sistema de Gestión de Inventario y Ventas** 🏪, una solución integral para manejar el inventario de productos, registrar ventas y administrar credenciales de acceso. Con este sistema, puedes:
 
