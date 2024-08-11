@@ -1,0 +1,40 @@
+{
+    "productos": {
+        "1": {
+            "Nombre": "Pastel de pollo",
+            "Precio": 3000,
+            "Inventario": 3
+        },
+        "2": {
+            "Nombre": "Lapiz",
+            "Precio": 500,
+            "Inventario": 9
+        },
+        "3": {
+            "Nombre": "Jabon",
+            "Precio": 2000,
+            "Inventario": 4
+        }
+    },
+    "producto_totales": 3,
+    "ventas_totales": {
+        "0000": {
+            "Fecha": "03 de Agosto de 2024",
+            "Cliente": "123456789",
+            "Productos": {
+                "1": 2,
+                "2": 1
+            },
+            "Vendedor": "Pepito Perez",
+            "Precios": {
+                "1": 3000,
+                "2": 500
+            }
+        }
+    },
+    "ventas_total": 1,
+    "sesion": {
+        "admin": 1234,
+        "santi": 123
+    }
+}

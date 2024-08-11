@@ -1,0 +1,25 @@
+
+                Tienda S.A.S
+
+        800200100-0
+        Teléfono: 589 63 52
+        Resolución DIAN 1918165549/8156
+        Autorizada el: 2019/01/22 :
+        Prefijo POS Del: 1 Al: 100000
+        Responsable de IVA
+        --------------------------------------------------------
+                Factura de Venta
+        Código Factura: 0000           
+        Fecha: 03 de Agosto de 2024
+        Cliente: 123456789
+        Vendedor: Pepito Perez
+        
+        Producto: Pastel de pollo
+        Cantidad: 2
+        Precio unitario: 3000
+        
+        Producto: Lapiz
+        Cantidad: 1
+        Precio unitario: 500
+        
+Total: 6500
