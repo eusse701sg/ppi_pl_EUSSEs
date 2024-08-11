@@ -1,22 +1,35 @@
-# Tienda 🛒
+# 📦 Sistema de Gestión de Inventario y Ventas 🛒
 
-## Descripción
+Bienvenido al **Sistema de Gestión de Inventario y Ventas** 🏪, una solución integral para manejar el inventario de productos, registrar ventas y administrar credenciales de acceso. Con este sistema, puedes:
 
-El script de la **Tienda** gestiona un sistema completo para ventas de productos. Permite a los usuarios agregar productos a un carrito, calcular el total a pagar, gestionar el inventario y manejar credenciales de usuarios. Es una solución integral para la administración de compras en un entorno de venta al por menor, con control de acceso y funcionalidades de carrito de compras.
+- **👀 Ver todos los productos**: Consulta el inventario completo.
+- **➕ Agregar nuevos productos**: Introduce nuevos artículos en el sistema.
+- **🔍 Buscar productos**: Encuentra productos específicos en el inventario.
+- **✏️ Editar productos**: Actualiza la información de los productos existentes.
+- **🗑️ Eliminar productos**: Elimina artículos del inventario.
+- **💰 Ingresar ventas**: Registra nuevas ventas y actualiza el inventario.
+- **📊 Ver ventas**: Revisa todas las ventas realizadas.
+- **🔍 Buscar ventas**: Consulta detalles de ventas específicas.
+- **✏️ Editar ventas**: Modifica la información de ventas previas.
+- **🧾 Imprimir facturas**: Genera y guarda facturas en formato de texto.
+- **📈 Ver estadísticas**: Obtén informes sobre el rendimiento de ventas.
+- **🔑 Gestionar credenciales**: Crea, visualiza y elimina credenciales de acceso.
 
-## Funcionalidades
+## 📁 Requisitos
 
-- **🛍️ Agregar Productos**: Añade productos al carrito con su nombre, cantidad y precio.
-- **🛒 Gestionar Carrito**: Permite ver, agregar, y eliminar productos del carrito. Calcula automáticamente el total a pagar.
-- **📈 Consultar Inventario**: Muestra el inventario disponible y permite verificar la cantidad de productos en existencia.
-- **💸 Validar Presupuesto**: Compara el total del carrito con el presupuesto disponible para asegurar que se puede cubrir el costo.
-- **🔐 Gestión de Credenciales**: Permite crear, modificar y verificar credenciales de usuario para gestionar el acceso al sistema.
+- Python 3.x
+- Librerías estándar (json, os)
 
-## Uso
+## 🚀 Cómo usar
 
-1. **Iniciar el Script**: Ejecuta el script para acceder al menú principal.
-2. **Agregar Productos**: Selecciona la opción para agregar productos al carrito, ingresando nombre, cantidad y precio.
-3. **Gestionar Carrito**: Añade o elimina productos del carrito según sea necesario. Verifica el total a pagar en cualquier momento.
-4. **Consultar Inventario**: Revisa el inventario para asegurarte de que los productos deseados están disponibles.
-5. **Validar Presupuesto**: Introduce el presupuesto disponible y comprueba si es suficiente para cubrir el total del carrito.
-6. **Gestionar Credenciales**: Crea nuevas credenciales, modifica credenciales existentes o verifica credenciales de acceso.
+1. **Inicia el programa**: Ejecuta el script para iniciar el menú principal.
+2. **Selecciona una opción**: Elige lo que deseas hacer desde el menú interactivo.
+3. **Sigue las instrucciones**: Sigue las indicaciones en pantalla para realizar tus tareas.
+
+## 🛠️ Funcionalidades
+
+- Autenticación de usuario para acceder al sistema 🔐
+- Gestión completa de productos y ventas 📊
+- Creación y edición de credenciales de usuario 🔑
+
+¡Haz que la gestión de tu tienda sea más sencilla y eficiente con nuestro sistema! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 😊
