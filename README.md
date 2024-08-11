@@ -1,5 +1,5 @@
-# 🎯 Freelance: Optimización DevOps
-<img src="https://agilidadydevops.net/wp-content/uploads/2022/12/devops_by_dynatrace.png" alt="DevOps Banner" width="600"
+# 🎯 Freelance: Desarrollo en Python
+<img src="https://raspberry-valley.azurewebsites.net/img/Python-01.jpg" alt="Python Banner" width="600"
 height= "300">
 
 ## 🙋‍♂️ Sobre Mí
@@ -28,7 +28,26 @@ Estoy explorando el mundo del **trabajo independiente** como freelancer. Me he r
 
 **Objetivo**: Enfocarme en el desarrollo de aplicativos basados en **Python** y **Programación Orientada a Objetos**.
 
-### 🌐 Plataformas
+## 💼 Portafolio
+## Descripción de los Scripts
+
+### 1. **Almacenamiento de Pipetas 🧪**
+   ¡Gestiona tus pipetas de laboratorio de manera eficiente! Este script te permite registrar pipetas, realizar mediciones precisas y mantener un registro completo. Verifica la disponibilidad de seriales, consulta detalles específicos y obtén estadísticas detalladas por marca. Ideal para laboratorios que buscan un control meticuloso sobre sus instrumentos. 📊
+
+### 2. **Carrito de Compras 🛒**
+   Lleva la experiencia de compra al siguiente nivel con este sistema de carrito de compras. Añade y elimina productos con facilidad, consulta cantidades y calcula el total a pagar. Incluye validación de presupuesto para asegurarte de que siempre estés dentro de tus límites. Perfecto para cualquier aplicación de e-commerce o gestión de inventario. 💰
+
+### 3. **Nómina 💼**
+   Simplifica la gestión de tu personal con este sistema de nómina. Registra y modifica datos de empleados, calcula salarios basados en horas trabajadas y maneja toda la información en formato CSV. Con funciones de validación y una interfaz intuitiva, es la herramienta ideal para cualquier departamento de recursos humanos. 📋
+
+### 4. **Tabla de Campeonato ⚽**
+   Mantén el control del campeonato de fútbol con este gestor de tablas de posiciones. Agrega equipos, actualiza resultados y consulta la clasificación en tiempo real. Este script es perfecto para ligas deportivas que buscan una forma eficaz de gestionar y visualizar las posiciones de los equipos. 🏆
+
+### 5. **Tienda 🏬**
+   Organiza tu tienda de manera sencilla y efectiva con este sistema de gestión. Registra productos, gestiona inventarios y realiza ventas de manera fluida. Con funcionalidades para actualizar precios y consultar el estado del inventario, es la solución perfecta para mantener tu negocio en óptimas condiciones. 📦
+
+
+## 🌐 Plataformas
 Actualmente me encuentro registrado en las siguientes plataformas:
 - [PeoplePerHour](https://www.peopleperhour.com/freelancer/santiago-eusse-development-engineer-zzwamaxw)
 - [Upwork](https://www.upwork.com/freelancers/~018af8fef3a1a14c71)
